@@ -9,6 +9,11 @@ Este repositorio contiene el trabajo de replicación del artículo:
 *The impact of coffee certification on small-scale producers’ livelihoods: a case study from the Jimma Zone, Ethiopia*. Agricultural Economics, 43(4), 429–440.
 📄 [DOI: 10.1111/j.1574-0862.2012.00594.x](https://doi.org/10.1111/j.1574-0862.2012.00594.x)
 
+## 👥 Integrantes del grupo
+
+* **Zarit Dafra de la Cruz Lavado**
+* **Angelly Gutiérrez Sánchez**
+
 ---
 
 ## 📁 Estructura del Repositorio
