@@ -1,7 +1,7 @@
 # 🧾 Trabajo de Replicación – Impacto de la Certificación de Café en Etiopía
 
 **Facultad de Ciencias Sociales – PUCP**
-**Curso: Evaluación de Impacto / Economía del Desarrollo**
+**Curso: Econometria Micro **
 
 Este repositorio contiene el trabajo de replicación del artículo:
 
